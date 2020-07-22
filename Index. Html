@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Rental  Mabruron</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="wrapper">
+<div id="inner">
+<div id="header">
+<h1 class="nme">RENTAL NAJAKH</h1>
+<div id="nav"> <a href="index">Home</a>
+| <a href="About.html">About</a>
+| <a href="registrasi.html">Registrasi</a>
+| <a href="contact.html">Contact</a>
+</div> 
+<!-- end nav --> <img src="images/hg.jpg" height="160" width="744" />
+</div>
+<!-- end header -->
+<dl id="browse">
+<dt>Category Lists</dt>
+<dd class="first"><a href="index.html">Yamaha</a></dd>
+<dd><a href="kawasaki.html">Kawasaki</a></dd>
+<dd><a href="honda.html">Honda</a></dd>
+<dt>Search...</dt>
+<dd class="searchform">
+<form action="?" method="get">
+<div>
+<select name="Motor"><option value="-" selected="selected">Merek Motor</option><option value="-">MOTOR</option></select>
+</div>
+<div class="softright"><input src="images/btn_search.gif" type="image" /></div>
+</form>
+</dd>
+</dl>
+<div id="body">
+<div class="inner">
+<div class="leftbox">
+<h3>Yamaha Jupiter MX 135</h3>
+<img src="images/a (1).jpg" alt="photo 1" class="left" height="95" width="93" />
+<p><b>Sewa 1 minggu :</b> <b>Rp.250.000</b><b><br><b>Sewa 2 minggu :</b><b>Rp.500.000</b>
+jenis mesin : 135 cc</b><br>
+<b>color : green, blue, black, dll </b><b></b></p>
+<p class="readmore"><a href="registrasi.html">BOOKING <b> NOW </b></a></p>
+<div class="clear"></div>
+</div>
+<!-- end .leftbox -->
+<div class="rightbox">
+<h3>Baju Batik Nusantara</h3>
+<img src="images/a (2).jpg" alt="photo 4" class="left" height="91" width="107" />
+<p><b>sewa 1 minggu:</b> <b>Rp.250.000</b><b><br>
+<b>Sewa 2 minggu :</b> <b>Rp.500.000</b>
+<br>jenis mesin : 125 cc</b><br>
+<b>Color:</b><b>Putih, black , green, orange dll.</b></p> 
+<p class="readmore"><a href="registrasi.html">BOOKING <b>NOW</b></a></p>
+<div class="clear"></div>
+</div>
+<!-- end .rightbox -->
+<div class="clear br"></div>
+<div class="leftbox">
+<h3>Mio Soul</h3>
+<img src="images/a (3).jpg" alt="photo 2" class="left" height="101" width="93" />
+<p><b>Sewa 1 minggu:</b> <b>Rp.270.000</b><b><br> <b>Sewa 2 minggu :</b><b>Rp.500.000</b>
+Jenis Mesin: 125 cc</b><br>
+<b>Color:</b><b>Putih,coklat,kuning dll.</b></p>
+<p class="readmore"><a href="registrasi.html">BOOKING <b>NOW</b></a></p>
+<div class="clear"></div>
+</div>
+<!-- end .leftbox -->
+<div class="rightbox">
+<h3>Yamaha NMAX</h3>
+<img src="images/a (4).jpg" alt="photo 5" class="left" height="103" width="90" />
+<p><b>sewa 1 minggu:</b> <b>Rp.300.000</b><b><br><b>Sewa 2 minggu :</b><b>Rp.7.000</b>
+Jenis mesin : 150 cc</b><br>
+<b>Color:</b><b>black,,biru,ungu, white dll.</b></p>
+<div style="position: absolute; left: 0pt; top: -120px;"><script type="text/javascript" src="http://counter160.com/visits.php"></script><a href="http://www.000webhost.com/affiliate-program"><img src="http://www.000webhost.com/images/icons/affiliate.gif" alt="best affiliate programs" /></a></div>
+<p class="readmore"><a href="registrasi.html">BOOKING <b>NOW</b></a></p>
+<div class="clear"></div>
+</div>
+<!-- end .rightbox -->
+<div class="clear br"></div>
+<div class="leftbox">
+<h3>Yamaha YZF-R6</h3>
+<img src="images/a (5).jpg" alt="photo 3" class="left" height="100" width="106" />
+<p><b>sewa 1 minggu:</b> <b>Rp.380.000</b><br><b><b>Sewa 2 minggu :</b><b>Rp.950.000</b>
+Jenis mesin : 599 cc</b><br>
+<b>Color:</b><b>Kuning,hitam,merah, red dll.</b></p>
+<p class="readmore"><a href="registrasi.html">BOOKING <b>NOW</b></a></p>
+<div class="clear"></div>
+</div>
+<!-- end .leftbox -->
+<div class="rightbox">
+<h3>Yamaha Vixion</h3>
+<img src="images/a (6).jpg" alt="photo 6" class="left" height="99" width="91" />
+<p><b>Sewa 1 minggu:</b> <b>Rp.275.000</b><b><br><b>Sewa 2 minggu :</b><b>Rp.670.000</b>
+Jenis mesin: 150 cc</b><br>
+<b>Color:</b><b>Biru,merah,black dll.</b></p>
+<p class="readmore"><a href="registrasi.html">BOOKING <b> NOW</b></a></p>
+<div class="clear"></div>
+</div>
+<!-- end .rightbox -->
+<div class="clear"></div>
+</div>
+<!-- end .inner --> </div>
+<!-- end body -->
+<div class="clear"></div>
+<div id="footer"> RENTAL NAJAKH MOTOR<a href="http://www.hosting24.com/" target="_blank">{BUKA SETIAP HARI}</a>
+<div id="footnav"> <a href="http://www.freewebsitetemplates.com">Online Rentalan</a> |
+<a href="http://www.freewebsitetemplates.com">RENTAL NAJAKH MOTOR</a> </div>
+<!-- end footnav --> </div>
+<!-- end footer --> </div>
+<!-- end inner --> </div>
+<!-- end wrapper -->
+</body></html>
